@@ -1,0 +1,12 @@
+
+calculateBill(){
+
+}
+
+decreasePeople(){
+
+}
+
+increasePeople(){
+    
+}
